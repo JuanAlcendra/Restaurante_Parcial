@@ -9,8 +9,7 @@
 #    Se aplica un 15% de descuento si el producto pertenece
 #    a la categoría objetivo Y su precio base supera el umbral.
 #
-#  Autor   : Estudiante POA
-#  Lenguaje: Python 3
+#  Autor   : Juan Carlos Muñoz Alcendra
 # ============================================================
 
 
